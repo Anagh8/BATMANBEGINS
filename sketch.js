@@ -8,10 +8,10 @@ var maxDrops=100;
 var drops=[];
 
 function preload(){
-   thunder1Img=loadImage("images/thunderbolt/thunder1.png");
-   thunder2Img=loadImage("images/thunderbolt/thunder2.png");
-   thunder3Img=loadImage("images/thunderbolt/thunder3.png");
-   thunder4Img=loadImage("images/thunderbolt/thunder4.png");   
+   thunder1Img=loadImage("images/thunderbolt/1.png");
+   thunder2Img=loadImage("images/thunderbolt/2.png");
+   thunder3Img=loadImage("images/thunderbolt/3.png");
+   thunder4Img=loadImage("images/thunderbolt/4.png");   
 }
 
 function setup(){
